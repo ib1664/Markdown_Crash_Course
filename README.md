@@ -10,12 +10,12 @@
 <!-- Italics -->
 *This text is Italic*
 
-_This text is Italic_
+*This text is Italic*
 
 <!-- Strong Text -->
 **This text is Strong**
 
-__This text is Strong__
+**This text is Strong**
 
 <!-- Strike Through -->
 ~~This text is strike through~~
