@@ -14,7 +14,7 @@ After a tour and inspection of the SDA High Physical Supports appartments at the
 ### The quote for its yearly cost
 ---
 
-The following has been quoted to me by Teigeb Bywater from [Housing Hub](https://www.housinghub.org.au/), Contact email [@Teigen](mailto:teigen.bywater@housinghub.org.au).
+The following has been quoted to me by Teigen Bywater from [Housing Hub](https://www.housinghub.org.au/), Contact email [@Teigen](mailto:teigen.bywater@housinghub.org.au).
 
 > The cost for SDA at Sydney Olympic Park is set by the NDIA and can be calculated using the NDIA SDA Price Calculator that accompanies this response:
 >
